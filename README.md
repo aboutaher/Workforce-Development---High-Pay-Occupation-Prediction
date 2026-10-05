@@ -1,1 +1,1 @@
-# Workforce-Development---High-Pay-Occupation-Prediction
+This folder contains the project's Jupyter notebooks
